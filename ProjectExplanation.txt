@@ -9,3 +9,4 @@ As described earlier,I made use of bootstrap breakpoint classes and bootstrap gr
 This means that the component under the div will occupy 4 columns out of 12 for width exceeding large screen size and it will c=occupy the complete widthe for screen width less than large.
 Also, I abstained myself from using any absolute pixel size for marking the dimension of any component.Rather,I have used relative dimensions like vh,rem,% and so on.
 
+For showing various parts of the website, I have used relative links and it is controlled through the links given in the nav bar.
